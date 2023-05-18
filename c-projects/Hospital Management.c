@@ -735,4 +735,3 @@ int levenshteinDistance(const char *str1, const char *str2)
 
     return matrix[len1][len2];
 }
-
