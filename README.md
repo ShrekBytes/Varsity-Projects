@@ -47,7 +47,7 @@ However, if you have any suggestions, feedback, or questions, feel free to open 
 
 ## License
 
-"License? Nah, who needs those pesky legalities anyway? Feel free to do whatever you want with this code – use it as a doorstop, launch it into space, or frame it as a modern art masterpiece. Just don't blame me if things get a little wild!"
+"License? Nah, who needs those bothersome regulations anyway? Feel free to do whatever you want with this code – use it as a doorstop, launch it into space, or frame it as a modern art masterpiece. Just don't blame me if things get a little wild!"
 
 ###
 
