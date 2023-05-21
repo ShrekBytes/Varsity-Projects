@@ -26,24 +26,35 @@ This hospital management project aims to simplify patient information management
 ## Screenshots
 Here are some screenshots showcasing the project's user interface:
 
-<div align="center">
-  <img src="screenshots/load1.png" alt="Wrong" width="400px"> 
+<p align="center">
+  <img src="screenshots/load1.png" alt="Wrong" width="400px">
   <img src="screenshots/load2.png" alt="Login Screen" width="400px">
-  <br>
-  <img src="screenshots/wrong.png" alt="Wrong" width="400px"> 
+</p>
+
+<p align="center">
+  <img src="screenshots/wrong.png" alt="Wrong" width="400px">
   <img src="screenshots/login.png" alt="Login Screen" width="400px">
-  <br>
- <img src="screenshots/main_menu.png" alt="Main Menu" width="400px"> 
+</p>
+
+<p align="center">
+  <img src="screenshots/main_menu.png" alt="Main Menu" width="400px">
   <img src="screenshots/all_patient.png" alt="ALL patient" width="400px">
-  <br>
+</p>
+
+<p align="center">
   <img src="screenshots/add_patient.png" alt="Add Patient" width="400px">
   <img src="screenshots/patient_added.png" alt="Patient Added" width="400px">
-  <br>
+</p>
+
+<p align="center">
   <img src="screenshots/search_patient.png" alt="Search Patient" width="400px">
   <img src="screenshots/display_patient.png" alt="Display Patient" width="400px">
-  <br>
+</p>
+
+<p align="center">
   <img src="screenshots/patient_deleted.png" alt="Delete Patient" width="400px">
-</div>
+</p>
+
 
 ## Dependencies
 - The application requires a C compiler to compile and run the source code.
