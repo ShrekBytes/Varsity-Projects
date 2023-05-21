@@ -11,15 +11,8 @@ This hospital management application aims to simplify patient information manage
 - Each patient has a unique patient number assigned to them.
 - Patient information includes their name, age, gender, blood group, contact details, emergency contact information, current physician, and date of admission.
 
-## Getting Started
-To run the application, follow these steps:
-
-1. Clone the repository: `git clone <repository-url>`
-2. Compile the source code: `gcc hospital_management.c -o hospital_management`
-3. Run the executable: `./hospital_management`
-
 ## Usage
-1. Launch the application and enter your username and password to log in
+1. Launch the application and enter your username and password to log in.
 	- Default Username: ShrekBytes
 	- Default Password: asdf1234
 2. Once logged in, you will be presented with the main menu.
@@ -38,7 +31,15 @@ To run the application, follow these steps:
 - The code has been tested on both Windows and Linux systems.
 
 ## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+Contributions to this project is not currently open. It is intended solely for showcasing the project I did for university task.
+
+However, if you have any suggestions, feedback, or questions, feel free to open an issue in the repository. I appreciate your interest and input!
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+"License? Nah, who needs those bothersome regulations anyway? Feel free to do whatever you want with this code – use it as a doorstop, launch it into space, or frame it as a modern art masterpiece. Just don't blame me if things get a little wild!"
+
+###
+
+Happy exploring and learning! 🚀🎓
