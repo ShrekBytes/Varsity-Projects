@@ -20,6 +20,7 @@ To run the application, follow these steps:
 
 ## Usage
 1. Launch the application and enter your username and password to log in.
+![Login Screen](screenshots/login.png)
 2. Once logged in, you will be presented with the main menu.
 3. Choose the desired option from the menu:
    - Option 1: View all patients.
