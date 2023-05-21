@@ -27,8 +27,11 @@ This hospital management project aims to simplify patient information management
 Here are some screenshots showcasing the project's user interface:
 
 <div align="center">
+  <img src="screenshots/wrong.png" alt="Wrong" width="400px"> 
   <img src="screenshots/login.png" alt="Login Screen" width="400px">
-  <img src="screenshots/main_menu.png" alt="Main Menu" width="400px">
+  <br>
+ <img src="screenshots/main_menu.png" alt="Main Menu" width="400px"> 
+  <img src="screenshots/all_patient.png" alt="ALL patient" width="400px">
   <br>
   <img src="screenshots/add_patient.png" alt="Add Patient" width="400px">
   <img src="screenshots/patient_added.png" alt="Patient Added" width="400px">
