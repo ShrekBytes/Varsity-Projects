@@ -71,7 +71,7 @@ Here are some screenshots showcasing the project's user interface:
     <td align="center">
       <img src="screenshots/patient_deleted.png" alt="Delete Patient" width="50%">
     </td>
-    <td></td>
+    <td align="center">and more...</td>
   </tr>
 </table>
 
