@@ -26,35 +26,54 @@ This hospital management project aims to simplify patient information management
 ## Screenshots
 Here are some screenshots showcasing the project's user interface:
 
-<p align="center">
-  <img src="screenshots/load1.png" alt="Wrong" width="50%">
-  <img src="screenshots/load2.png" alt="Login Screen" width="50%">
-</p>
-
-<p align="center">
-  <img src="screenshots/wrong.png" alt="Wrong" width="50%">
-  <img src="screenshots/login.png" alt="Login Screen" width="50%">
-</p>
-
-<p align="center">
-  <img src="screenshots/main_menu.png" alt="Main Menu" width="50%">
-  <img src="screenshots/all_patient.png" alt="ALL patient" width="50%">
-</p>
-
-<p align="center">
-  <img src="screenshots/add_patient.png" alt="Add Patient" width="50%">
-  <img src="screenshots/patient_added.png" alt="Patient Added" width="50%">
-</p>
-
-<p align="center">
-  <img src="screenshots/search_patient.png" alt="Search Patient" width="50%">
-  <img src="screenshots/display_patient.png" alt="Display Patient" width="50%">
-</p>
-
-<p align="center">
-  <img src="screenshots/patient_deleted.png" alt="Delete Patient" width="50%">
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="screenshots/load1.png" alt="Wrong" width="50%">
+    </td>
+    <td align="center">
+      <img src="screenshots/load2.png" alt="Login Screen" width="50%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/wrong.png" alt="Wrong" width="50%">
+    </td>
+    <td align="center">
+      <img src="screenshots/login.png" alt="Login Screen" width="50%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/main_menu.png" alt="Main Menu" width="50%">
+    </td>
+    <td align="center">
+      <img src="screenshots/all_patient.png" alt="ALL patient" width="50%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/add_patient.png" alt="Add Patient" width="50%">
+    </td>
+    <td align="center">
+      <img src="screenshots/patient_added.png" alt="Patient Added" width="50%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/search_patient.png" alt="Search Patient" width="50%">
+    </td>
+    <td align="center">
+      <img src="screenshots/display_patient.png" alt="Display Patient" width="50%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/patient_deleted.png" alt="Delete Patient" width="50%">
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 
 ## Dependencies
