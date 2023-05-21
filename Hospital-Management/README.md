@@ -33,7 +33,7 @@ This hospital management application aims to simplify patient information manage
 ![Patient Added](screenshots/patient_added.png)
 ![Search Patient](screenshots/search_patient.png)
 ![Display Patient](screenshots/display_patient.png)
-![Delete Patient](screenshots/delete_patient.png)
+![Delete Patient](screenshots/patient_deleted.png)
 
 ## Dependencies
 - The application requires a C compiler to compile and run the source code.
