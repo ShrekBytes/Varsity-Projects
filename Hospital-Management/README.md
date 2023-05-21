@@ -15,6 +15,7 @@ This hospital management project aims to simplify patient information management
 
 
 ## Features
+- Clears output screen with loading animation.
 - Login screen with username and password validation.
 - Main menu with options to view all patients, add a new patient, and search for a specific patient.
 - Add new patients to the system, including information such as name, age, gender, blood group, and contact details.
