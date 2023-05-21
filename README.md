@@ -4,7 +4,7 @@
 
 ## Varsity Projects Showcase 🎓
 
-Welcome to the Varsity-Projects repository! This collection showcases a variety of team-based and solo projects that I completed during my time at Varsity. It represents the culmination of my academic journey, highlighting the diverse range of tasks, assignments, and collaborative projects I undertook.
+This collection showcases a variety of team-based and solo projects that I completed during my time at Varsity. It represents the culmination of my academic journey, highlighting the diverse range of tasks, assignments, and collaborative projects I undertook.
 
 ## Table of Contents 📚
 
