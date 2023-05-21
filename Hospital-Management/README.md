@@ -24,13 +24,20 @@ This hospital management project aims to simplify patient information management
 - Patient information includes their name, age, gender, blood group, contact details, emergency contact information, current physician, and date of admission.
 
 ## Screenshots
-![Login Screen](screenshots/login.png)
-![Main Menu](screenshots/main_menu.png)
-![Add Patient](screenshots/add_patient.png)
-![Patient Added](screenshots/patient_added.png)
-![Search Patient](screenshots/search_patient.png)
-![Display Patient](screenshots/display_patient.png)
-![Delete Patient](screenshots/patient_deleted.png)
+Here are some screenshots showcasing the project's user interface:
+
+<div align="center">
+  <img src="screenshots/login.png" alt="Login Screen" width="400px">
+  <img src="screenshots/main_menu.png" alt="Main Menu" width="400px">
+  <br>
+  <img src="screenshots/add_patient.png" alt="Add Patient" width="400px">
+  <img src="screenshots/patient_added.png" alt="Patient Added" width="400px">
+  <br>
+  <img src="screenshots/search_patient.png" alt="Search Patient" width="400px">
+  <img src="screenshots/display_patient.png" alt="Display Patient" width="400px">
+  <br>
+  <img src="screenshots/patient_deleted.png" alt="Delete Patient" width="400px">
+</div>
 
 ## Dependencies
 - The application requires a C compiler to compile and run the source code.
