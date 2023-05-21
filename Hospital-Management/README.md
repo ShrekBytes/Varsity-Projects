@@ -3,8 +3,8 @@
 This hospital management project aims to simplify patient information management through an innovative and user-friendly interface, enhancing the efficiency of hospital processes. The project was developed using the C language and incorporates data structures for effective data management.
 
 ## Default Credentials 🔐
-- Default Username: ShrekBytes
-- Default Password: asdf1234
+- Username: ShrekBytes
+- Password: asdf1234
 
 ## Table of Contents
 - [Features](#features)
