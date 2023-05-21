@@ -28,11 +28,13 @@ This hospital management project aims to simplify patient information management
 Here are some screenshots showcasing the project's user interface:
 
 | ![Load1](screenshots/load1.png) | ![Load2](screenshots/load2.png) |
+|---|---|
 | ![Wrong](screenshots/wrong.png) | ![Login Screen](screenshots/login.png) |
 | ![Main Menu](screenshots/main_menu.png) | ![ALL patient](screenshots/all_patient.png) |
 | ![Add Patient](screenshots/add_patient.png) | ![Patient Added](screenshots/patient_added.png) |
 | ![Search Patient](screenshots/search_patient.png) | ![Display Patient](screenshots/display_patient.png) |
 | ![Delete Patient](screenshots/patient_deleted.png) | and more... |
+
 
 
 ## Dependencies
