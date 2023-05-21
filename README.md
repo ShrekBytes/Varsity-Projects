@@ -47,10 +47,8 @@ However, if you have any suggestions, feedback, or questions, feel free to open 
 
 ## License 📄
 
-This repository is licensed under the [MIT License](LICENSE.md). You are free to use the code and resources provided in this repository for personal or educational purposes.
+"License? Nah, who needs those pesky legalities anyway? Feel free to do whatever you want with this code – use it as a doorstop, launch it into space, or frame it as a modern art masterpiece. Just don't blame me if things get a little wild!"
 
-Please note that while the projects are showcased here, the specific terms and conditions for each project may vary. Refer to the individual project's `README.md` file for any additional licensing or usage information.
-
-Thank you for visiting the Varsity-Projects repository!
+###
 
 Happy exploring and learning! 🚀🎓
