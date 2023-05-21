@@ -27,13 +27,13 @@ This hospital management project aims to simplify patient information management
 ## Screenshots
 Here are some screenshots showcasing the project's user interface:
 
-| <img src="screenshots/load1.png" alt="Wrong" width="50%"> | <img src="screenshots/load2.png" alt="Login Screen" width="50%"> |
+| ![Load1](screenshots/load1.png){: width="50%" } | ![Load2](screenshots/load2.png){: width="50%" } |
 |:---:|:---:|
-| <img src="screenshots/wrong.png" alt="Wrong" width="50%"> | <img src="screenshots/login.png" alt="Login Screen" width="50%"> |
-| <img src="screenshots/main_menu.png" alt="Main Menu" width="50%"> | <img src="screenshots/all_patient.png" alt="ALL patient" width="50%"> |
-| <img src="screenshots/add_patient.png" alt="Add Patient" width="50%"> | <img src="screenshots/patient_added.png" alt="Patient Added" width="50%"> |
-| <img src="screenshots/search_patient.png" alt="Search Patient" width="50%"> | <img src="screenshots/display_patient.png" alt="Display Patient" width="50%"> |
-| <img src="screenshots/patient_deleted.png" alt="Delete Patient" width="50%"> | |
+| ![Wrong](screenshots/wrong.png){: width="50%" } | ![Login Screen](screenshots/login.png){: width="50%" } |
+| ![Main Menu](screenshots/main_menu.png){: width="50%" } | ![ALL patient](screenshots/all_patient.png){: width="50%" } |
+| ![Add Patient](screenshots/add_patient.png){: width="50%" } | ![Patient Added](screenshots/patient_added.png){: width="50%" } |
+| ![Search Patient](screenshots/search_patient.png){: width="50%" } | ![Display Patient](screenshots/display_patient.png){: width="50%" } |
+| ![Delete Patient](screenshots/patient_deleted.png){: width="50%" } | and more... |
 
 
 ## Dependencies
