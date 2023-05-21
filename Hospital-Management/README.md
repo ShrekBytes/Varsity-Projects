@@ -19,9 +19,7 @@ To run the application, follow these steps:
 3. Run the executable: `./hospital_management`
 
 ## Usage
-1. Launch the application and enter your username and password to log in.
-  <img src="screenshots/login.png" alt="Varsity-Projects Logo" width="75%">
-
+1. Launch the application and enter your username and password to log in.-default username -default password
 2. Once logged in, you will be presented with the main menu.
 3. Choose the desired option from the menu:
    - Option 1: View all patients.
