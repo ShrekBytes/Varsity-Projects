@@ -33,7 +33,7 @@ Here are some screenshots showcasing the project's user interface:
 | ![Main Menu](screenshots/main_menu.png) | ![ALL patient](screenshots/all_patient.png) |
 | ![Add Patient](screenshots/add_patient.png) | ![Patient Added](screenshots/patient_added.png) |
 | ![Search Patient](screenshots/search_patient.png) | ![Display Patient](screenshots/display_patient.png) |
-| ![Delete Patient](screenshots/patient_deleted.png) | and more... |
+| ![Delete Patient](screenshots/patient_deleted.png) | <p align="center">and more...</p> |
 
 
 
