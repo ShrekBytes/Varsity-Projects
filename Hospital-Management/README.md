@@ -20,8 +20,8 @@ To run the application, follow these steps:
 
 ## Usage
 1. Launch the application and enter your username and password to log in
-	-Default Username: ShrekBytes
-	-Default Password: asdf1234
+	- Default Username: ShrekBytes
+	- Default Password: asdf1234
 2. Once logged in, you will be presented with the main menu.
 3. Choose the desired option from the menu:
    - Option 1: View all patients.
