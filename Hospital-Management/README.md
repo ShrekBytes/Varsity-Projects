@@ -27,13 +27,12 @@ This hospital management project aims to simplify patient information management
 ## Screenshots
 Here are some screenshots showcasing the project's user interface:
 
-| ![Load1](screenshots/load1.png){: width="50%" } | ![Load2](screenshots/load2.png){: width="50%" } |
-|:---:|:---:|
-| ![Wrong](screenshots/wrong.png){: width="50%" } | ![Login Screen](screenshots/login.png){: width="50%" } |
-| ![Main Menu](screenshots/main_menu.png){: width="50%" } | ![ALL patient](screenshots/all_patient.png){: width="50%" } |
-| ![Add Patient](screenshots/add_patient.png){: width="50%" } | ![Patient Added](screenshots/patient_added.png){: width="50%" } |
-| ![Search Patient](screenshots/search_patient.png){: width="50%" } | ![Display Patient](screenshots/display_patient.png){: width="50%" } |
-| ![Delete Patient](screenshots/patient_deleted.png){: width="50%" } | and more... |
+| ![Load1](screenshots/load1.png) | ![Load2](screenshots/load2.png) |
+| ![Wrong](screenshots/wrong.png) | ![Login Screen](screenshots/login.png) |
+| ![Main Menu](screenshots/main_menu.png) | ![ALL patient](screenshots/all_patient.png) |
+| ![Add Patient](screenshots/add_patient.png) | ![Patient Added](screenshots/patient_added.png) |
+| ![Search Patient](screenshots/search_patient.png) | ![Display Patient](screenshots/display_patient.png) |
+| ![Delete Patient](screenshots/patient_deleted.png) | and more... |
 
 
 ## Dependencies
