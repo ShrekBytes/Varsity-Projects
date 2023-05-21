@@ -26,6 +26,15 @@ This hospital management application aims to simplify patient information manage
 6. If you choose to search for a patient, enter the patient's name. The application will perform a fuzzy search and display the matching results.
 7. To log out, select option 0 from the main menu.
 
+## Screenshots
+![Login Screen](screenshots/login.png)
+![Main Menu](screenshots/main_menu.png)
+![Add Patient](screenshots/add_patient.png)
+![Patient Added](screenshots/patient_added.png)
+![Search Patient](screenshots/search_patient.png)
+![Display Patient](screenshots/display_patient.png)
+![Delete Patient](screenshots/delete_patient.png)
+
 ## Dependencies
 - The application requires a C compiler to compile and run the source code.
 - The code has been tested on both Windows and Linux systems.
