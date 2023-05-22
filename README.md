@@ -1,6 +1,6 @@
 # Varsity-Projects
 
-<img src="logo.png" alt="Varsity-Projects Logo" width="300" height="300">
+<img src="logo.png" alt="Varsity-Projects Logo" width="250" height="250">
 
 ## Varsity Projects Showcase 🎓
 
