@@ -36,8 +36,7 @@ Here are some screenshots showcasing the project's user interface:
 | ![Delete Patient](screenshots/patient_deleted.png) | <p align="center">and more...</p> |
 
 
-
-fix: ## Dependencies
+## Dependencies
 - The application requires a C compiler to compile and run the source code.
 - The code has been tested on both Windows and Linux systems.
 
