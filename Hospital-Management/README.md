@@ -44,7 +44,7 @@ For Windows:
 - You can directly run the code in CodeBlocks, VSCode, or any other IDE.
 
 For Linux:
-- Replace `conio.h` with `ncurses.h`.
+- Replace `conio.h` with `ncurses.h` in the source code.
 - Compile the program:
    ```
    gcc Hospital_Management.c -o Hospital_Management -lncurses -lm
