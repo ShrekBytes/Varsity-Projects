@@ -42,7 +42,7 @@ Here are some screenshots showcasing the project's user interface:
 - The code has been tested on both Windows and Linux systems.
 
 For Windows:
-- You can directly run the code in CodeBlocks or VScode or any other compiler.
+- You can directly run the code in CodeBlocks or VScode or any other IDE.
 
 For Linux:
 - Replace `conio.h` with `curses.h` for console input/output.
