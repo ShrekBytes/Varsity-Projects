@@ -45,12 +45,12 @@ For Windows:
 
 For Linux:
 - Replace `conio.h` with `ncurses.h`.
-- Compile the program using the following command:
+- Compile the program:
    ```
    gcc Hospital_Management.c -o Hospital_Management -lncurses -lm
    ```
 
-- Run the program using:
+- Run the program:
    ```
    ./Hospital_Management
    ```
