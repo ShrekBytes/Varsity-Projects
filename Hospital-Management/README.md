@@ -37,40 +37,24 @@ Here are some screenshots showcasing the project's user interface:
 
 
 
-## Dependencies
+fix: ## Dependencies
 - The application requires a C compiler to compile and run the source code.
 - The code has been tested on both Windows and Linux systems.
 
 For Windows:
-- You can directly run the code in CodeBlocks or VScode or any other IDE.
+- You can directly run the code in CodeBlocks, VSCode, or any other IDE.
 
 For Linux:
-- Replace `conio.h` with `curses.h` for console input/output.
-- Compile the program:
+- Replace `conio.h` with `curses.h`.
+- Compile the program using the following command:
    ```
    gcc Hospital_Management.c -o Hospital_Management -lncurses -lm
    ```
 
-- Run the program:
+- Run the program using:
    ```
    ./Hospital_Management
    ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Contributing
 
