@@ -39,7 +39,7 @@ Here are some screenshots showcasing the project's user interface:
 
 ## Dependencies
 - The application requires a C compiler to compile and run the source code.
-- The code has been tested on both Windows and Linux systems.
+- The code has been tested on both Windows and Linux(in Linux use curses.h instead of conio.h) systems.
 
 ## Contributing
 
