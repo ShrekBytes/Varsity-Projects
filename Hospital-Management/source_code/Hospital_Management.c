@@ -24,7 +24,7 @@
 // simplify patient information management with an innovative and
 // user-friendly interface, streamlining hospital processes for better efficiency.
 
-// Version : 1.0
+// Version : 1.3
 // Date : 18/05/2023
 // Project Link: https://github.com/ShrekBytes/Varsity-Projects/tree/main/Hospital-Management
 
